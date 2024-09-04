@@ -1,11 +1,5 @@
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQEhaN2saMyJCg/profile-displaybackgroundimage-shrink_350_1400/0/1706549244476?e=1712793600&v=beta&t=-SdjR6ZSnWql70gzAJo92xzc4olSz4QVgpEVvyqlDNE)](https://mitunsportfolio.vercel.app/)
 
-<a href="https://mitunsportfolio.vercel.app/">
-  <img 
-    src="https://media.licdn.com/dms/image/D5616AQEhaN2saMyJCg/profile-displaybackgroundimage-shrink_350_1400/0/1706549244476?e=1712793600&v=beta&t=-SdjR6ZSnWql70gzAJo92xzc4olSz4QVgpEVvyqlDNE" 
-    alt="MasterHead" 
-    style="width: 100%; max-height: 350px; object-fit: cover;" 
-  />
-</a>
 
 
 <h1 align="center">Hi 👋, I'm Mitun Shil</h1>
