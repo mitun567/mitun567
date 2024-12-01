@@ -34,7 +34,6 @@
 
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mitun567)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitun567&show_icons=true&locale=en&layout=compact" alt="mitun567" /></p>
 
