@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mitun Shil</h1>
-<h3 align="center">A passionate Blockchain developer and researcher from **Draper Nation** (Borderless World)</h3>
+<h3 align="center">A passionate Blockchain developer and researcher from Draper Nation (Borderless World)</h3>
 <h3 align="center">I love solving problems that can hit the mankind and business goal positively</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
