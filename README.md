@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
-- 👨‍💻 All of my projects are available at: Portfolio: [portfolio26-jade-two.vercel.app](https://portfolio26-jade-two.vercel.app/)
+- 👨‍💻 All of my projects are available at: Portfolio: https://mitunshil.vercel.app/
 - 💬 Ask me about **Solidity**
 
 - 📫 How to reach me **mitunshil747@gmail.com**
