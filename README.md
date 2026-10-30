@@ -1,26 +1,27 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Mitun Shil</h1>
-<h3 align="center">A passionate Blockchain developer and researcher from Draper Nation (Borderless World)</h3>
-<h3 align="center">I love solving problems that can hit the mankind and business goal positively</h3>
+<h3 align="center">Blockchain protocol engineer — I build Layer 1 chains in Rust and Substrate</h3>
+
 <img align="right" alt="Coding" width="400" src="mitun_shiva_screen.gif">
 
 <p align="left"> <a href="https://twitter.com/mitun_shil" target="blank"><img src="https://img.shields.io/twitter/follow/mitun_shil?logo=twitter&style=for-the-badge" alt="mitun_shil" /></a> </p>
 
-- 🔭 I’m currently working on **Layer 1 Blockchain**
+- 🔭 Currently building **OHOW** — a quantum-resistant proof-of-personhood protocol (ML-DSA-65 / FIPS 204)
 
-- 🌱 I’m currently learning **Substrate,Rust**
+- ⛓️ Previously led **Argochain** from zero to production mainnet — 25M+ blocks, plus a cross-chain bridge migration of 39M tokens for ~15,000 users with no losses
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+- 💬 Ask me about **Substrate runtime development, consensus, post-quantum signatures, and decentralized identity**
 
-- 👨‍💻 All of my projects are available at: Portfolio: https://mitunshil.vercel.app/
-- 💬 Ask me about **Solidity**
+- 📖 Author of **King in Chaos**
 
-- 📫 How to reach me **mitunshil747@gmail.com**
+- 👯 Open to collaborating on **protocol-level blockchain work**
 
-- ⚡ Fun fact **I love meditating, reading self-help books,staring at sky and flying planes,enjoying sea, walking bare-footed.**
+- 🌍 Chittagong, Bangladesh — working remote across timezones
+
+- 🌐 Website: **https://mitunshil.com/** · Portfolio: **https://mitunshil.vercel.app/**
+
+- 📫 Reach me at **mitunshil747@gmail.com**
+
+- ⚡ Off-keyboard **meditating, reading self-help books, staring at the sky, the sea, walking barefoot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,12 +29,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" width="120" height="120"/> </a> <a href="https://web3js.readthedocs.io/en/v1.10.0/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/web3/web3.js/4.x/assets/logo/web3js.jpg" alt="Web3.js" width="120" height="120"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="120" height="120"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="120" height="120"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="120" height="120"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="120" height="120"/> </a> 
-
+<p align="left">
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="45" height="45"/> </a>
+<a href="https://substrate.io/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/polkadot-new-dot-logo.svg" alt="Substrate / Polkadot" width="45" height="45"/> </a>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" width="45" height="45"/> </a>
+<a href="https://web3js.readthedocs.io/en/v1.10.0/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/web3/web3.js/4.x/assets/logo/web3js.jpg" alt="Web3.js" width="45" height="45"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> </a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mitun567)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitun567&show_icons=true&locale=en&layout=compact" alt="mitun567" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitun567&" alt="mitun567" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mitun567&show_icons=true&locale=en" alt="mitun567" /></p>
