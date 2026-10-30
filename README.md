@@ -3,10 +3,8 @@
 
 <p align="center">
 <a href="https://mitunshil.com/"><img src="https://img.shields.io/badge/Website-mitunshil.com-1F6FEB?style=flat-square" alt="Website" /></a>
-<a href="https://mitunshil.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/mitun-shil-bb94aaab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/mitun_shil"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-<a href="mailto:mitunshil747@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </p>
 
 - 🔭 Building OHOW, a quantum-resistant proof of personhood protocol (ML-DSA-65 / FIPS 204). Still in development.
